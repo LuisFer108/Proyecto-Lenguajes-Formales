@@ -4,6 +4,11 @@
 - Jhon David Santamaria Cossio
 - Luis Fernando Bernal Ramirez
 
+
+** Video Explanation:**  https://drive.google.com/file/d/1ZcACtXODlmHN6UYr3t12pfD3rjWBJeP3/view?usp=sharing
+
+
+
 ## Overview
 
 This project implements a small rule-based inference engine in C++.  
